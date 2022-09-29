@@ -83,6 +83,8 @@ if (temperature >= 80 && rain) {
 
 //CODE HERE
 
+
+
 ////////// PROBLEM 6 //////////
 
 /*
